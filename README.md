@@ -1,2 +1,3 @@
-# board
+See https://github.com/andrewmitcham/zero/blob/master/README.md
+
 ...
